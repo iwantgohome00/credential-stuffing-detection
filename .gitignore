@@ -1,0 +1,12 @@
+# 스크립트 실행으로 재생성되는 데이터/탐지 결과
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / 에디터
+.DS_Store
+.vscode/
